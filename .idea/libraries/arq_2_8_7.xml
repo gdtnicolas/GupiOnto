@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="arq-2.8.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Téléchargements/SparqlClient/lib/arq-2.8.7.jar!/" />
+      <root url="jar://$USER_HOME$/Téléchargements/SparqlClient/lib/commons-codec-1.6.jar!/" />
+      <root url="jar://$USER_HOME$/Téléchargements/SparqlClient/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Téléchargements/SparqlClient/lib/httpclient-4.2.2.jar!/" />
+      <root url="jar://$USER_HOME$/Téléchargements/SparqlClient/lib/httpcore-4.2.2.jar!/" />
+      <root url="jar://$USER_HOME$/Téléchargements/SparqlClient/lib/httpmime-4.2.2.jar!/" />
+      <root url="jar://$USER_HOME$/Téléchargements/SparqlClient/lib/jena-2.6.4.jar!/" />
+      <root url="jar://$USER_HOME$/Téléchargements/SparqlClient/lib/log4j-1.2.16.jar!/" />
+      <root url="jar://$USER_HOME$/Téléchargements/SparqlClient/lib/slf4j-api-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
